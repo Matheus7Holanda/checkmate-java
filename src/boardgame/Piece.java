@@ -2,7 +2,7 @@ package boardgame;
 
 public class Piece {
 	
-	protected Position position;
+	protected Position position; // O acesso é por pacote e por herança
 	private Board board;
 	
 	
